@@ -1,0 +1,9 @@
+[package]
+name = "tapbpm"
+version = "0.1.0"
+authors = ["Takuya Kosugiyama <re@itkq.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4.9"
+timer = "0.1.3"
